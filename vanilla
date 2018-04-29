@@ -1,0 +1,9 @@
+#!/bin/sh
+tint2 &
+docky &
+gnome-system-monitor &
+nautilus &
+google-chrome &
+feh --bg-fill /home/user/desktop.jpg
+compton -c --shadow-exclude 'n:e:Docky' &
+openbox
