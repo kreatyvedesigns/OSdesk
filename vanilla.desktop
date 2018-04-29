@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=vanilla
+Comment=Custom desktop
+Exec=/usr/local/bin/vanilla
+TryExec=/usr/local/bin/vanilla
+Type=XSession
